@@ -29,6 +29,20 @@
 
 <br><br><br>
 
+---
+
+<br>
+
+<ins><b> Camera Calibration </b></ins>
+
+![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/calibration_images/output.jpg)
+
+<br><br><br>
+
+---
+
+<br>
+
 References:
 
 - [First Principles of Computer Vision: Camera Calibration](https://www.youtube.com/playlist?list=PL2zRqk16wsdoCCLpou-dGo7QQNks1Ppzo)
