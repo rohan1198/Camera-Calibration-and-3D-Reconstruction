@@ -33,6 +33,12 @@
 
 <br>
 
+<ins><b> Forward Camera Model </ins></b>
+
+![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/forward_camera_model.png)
+
+<br>
+
 <ins><b> [Camera Calibration](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/tree/main/Camera_Calibration) </b></ins>
 
 ![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/calibration_images/output.jpg)
