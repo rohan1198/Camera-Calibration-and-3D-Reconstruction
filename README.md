@@ -33,7 +33,7 @@
 
 <br>
 
-<ins><b> Forward Camera Model </ins></b>
+<ins><b> [Forward Camera Model](./Notes/Linear%20Camera%20Model.md) </ins></b>
 
 ![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/forward_camera_model.png)
 
