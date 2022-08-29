@@ -1,4 +1,4 @@
-<p align="center"><b><ins> Camera Calibration </ins></b></p>
+<p align="center"><b><ins> Camera Calibration and 3D Reconstruction </ins></b></p>
 
 - One of the key problems in Computer Vision is recovering the 3D structure of a scene from its images.
 - The only information available is a set of images, where the points are measured in pixels.
