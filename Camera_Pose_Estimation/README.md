@@ -13,8 +13,10 @@ Undistort Images:
 
 python undistort_imgs.py --path /path_to_/assets/calibration_images/high_resolution
 ```
+
 ```
 Render Cube on Chessboard corner:
+
 python pose.py --path ./corrected --calib-params ./calibration_params
 ```
 
