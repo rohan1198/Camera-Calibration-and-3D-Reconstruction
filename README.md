@@ -35,17 +35,27 @@
 
 <ins><b> [Forward Camera Model](./Notes/Linear%20Camera%20Model.md) </ins></b>
 
-![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/forward_camera_model.png)
+![](./assets/forward_camera_model.png)
 
 <br>
 
-<ins><b> [Camera Calibration](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/tree/main/Camera_Calibration) </b></ins>
+---
 
-![](https://github.com/rohan1198/Camera-Calibration-and-3D-Reconstruction/blob/main/assets/calibration_images/output.jpg)
+<br>
+
+<ins><b> [Camera Calibration](./Camera_Calibration/) </b></ins>
+
+![](./assets/calibration_images/output.jpg)
 
 <br><br><br>
 
 ---
+
+<br>
+
+<ins><b> [Camera Pose Estimation](./Camera_Pose_Estimation/README.md) </b></ins>
+
+![](./assets/camera_pose_output.png)
 
 <br>
 
